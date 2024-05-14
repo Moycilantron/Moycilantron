@@ -1,7 +1,2 @@
 ### Hi there 👋
-
-<!--
-
-- 🌱 I’m currently learning data science
-
--->
+🌱 I’m currently learning data science
